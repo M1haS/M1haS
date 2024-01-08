@@ -1,4 +1,4 @@
-### Hello, I'm Dascalu Mihail 
+## Hello, I'm Dascalu Mihail 
 
 #### I'm a C#, C++ developer
 
@@ -9,15 +9,28 @@ I like
 
 ---
 
+<br />
+
 ### Skills and Tolls:
 
 #### Platforms
 [<img align="left" alt="Windows" width="36px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png">]()  [<img align="left" alt="Windows" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">]()
+<br />
 #### Languages
-![image](https://github.com/M1haS/M1haS/assets/97390968/9691d907-8e31-467b-8952-6bf5bffc67a6) ![image](https://github.com/M1haS/M1haS/assets/97390968/f3e14c53-83f8-476a-93db-866edc0e2ed1) ![image](https://github.com/M1haS/M1haS/assets/97390968/d3396651-b333-4e45-bdc0-07eb7270d1bf) ![image](https://github.com/M1haS/M1haS/assets/97390968/d1685be4-5744-4b17-9274-1e47b2c63f3b) ![image](https://github.com/M1haS/M1haS/assets/97390968/8678d501-c6a5-4ad1-83a1-cd0e4d9bc7c8) ![image](https://github.com/M1haS/M1haS/assets/97390968/7a808376-b737-47a8-a929-bf0a94fbe8f9)
+[<img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"]()
+[<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"]()
+[<img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png"]()
+[<img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"]()
+[<img align="left" alt="TS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"]()
+[<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"]()
+[<img align="left" alt="Rust" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"]()
 
+<br />
 #### Tools
-![image](https://github.com/M1haS/M1haS/assets/97390968/d14fd243-2ac5-48cc-bf87-f7463846bb18) ![image](https://github.com/M1haS/M1haS/assets/97390968/492a0290-c27f-4eed-8420-d17291f6c5a0 =26px) ![image](https://github.com/M1haS/M1haS/assets/97390968/ffe3f7b1-b4b9-4737-8d5d-159cce3568e3) ![image](https://github.com/M1haS/M1haS/assets/97390968/e3824527-7147-4f6b-87dd-93ba8516b579)
+[<img align="left" alt="QT" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"]()
+[<img align="left" alt="Bash" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"]()
+[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"]()
+[<img align="left" alt="NodeJS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"]()
 
 <br />
 <br />
