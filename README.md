@@ -14,9 +14,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=M1haS&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<br />
-<br />
 
-<br />
-<br />
 [![](https://visitcount.itsvg.in/api?id=M1haS&icon=6&color=12)](https://visitcount.itsvg.in)
