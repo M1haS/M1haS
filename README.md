@@ -14,7 +14,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=M1haS&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://www.codewars.com/users/M1haS/badges/large)](https://www.codewars.com/users/M1haS)       [<img width="46px" align="left" src="https://www.svgrepo.com/show/452115/telegram.svg"](https://t.me/Mixas_das)
+## My contacts:
+[<img width="46px" align="left" src="https://www.svgrepo.com/show/452115/telegram.svg"](https://t.me/Mixas_das)
+
+
+[![](https://www.codewars.com/users/M1haS/badges/large)](https://www.codewars.com/users/M1haS)
 
 
 
