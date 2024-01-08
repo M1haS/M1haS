@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm a C#, C++ developer from Russia<br><br>I like<br>-  🎮 Games<br>-  🎞️ Watch films<br>-  and coding 💻
+### I'm Dascalu Mihail a C#, C++ developer from Russia<br><br>I like<br>-  🎮 Games<br>-  🎞️ Watch films<br>-  and coding 💻
 
 
 # 💻 Tech Stack:
