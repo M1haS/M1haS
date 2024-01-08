@@ -20,13 +20,15 @@ I like
 #### Tools
 ![image](https://github.com/M1haS/M1haS/assets/97390968/d14fd243-2ac5-48cc-bf87-f7463846bb18) ![image](https://github.com/M1haS/M1haS/assets/97390968/492a0290-c27f-4eed-8420-d17291f6c5a0) ![image](https://github.com/M1haS/M1haS/assets/97390968/ffe3f7b1-b4b9-4737-8d5d-159cce3568e3) ![image](https://github.com/M1haS/M1haS/assets/97390968/e3824527-7147-4f6b-87dd-93ba8516b579)
 
+img[alt=image] { width: 20px; }
+
 <br />
 <br />
 <br />
 
 ### You can contact with me:
-[<img align="left" alt="Telegram" width="26px" src="https://www.svgrepo.com/show/452115/telegram.svg">](https://t.me/Mixas_das)
-
+[<img align="left" alt="Telegram" width="46px" src="https://www.svgrepo.com/show/452115/telegram.svg">](https://t.me/Mixas_das)
+<br />
 ![Codewars](https://www.codewars.com/users/M1haS/badges/large)
 
 
