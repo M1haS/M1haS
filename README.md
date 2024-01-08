@@ -13,6 +13,8 @@ I like
 
 <br />
 ##### Platforms
+<br />
+
 [<img align="left" alt="Windows" width="36px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png">]() [<img align="left" alt="Windows" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">]()
 
 <br />
