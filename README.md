@@ -12,7 +12,7 @@ I like
 ### Skills and Tolls:
 
 #### Platforms
-[<img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/452115/telegram.svg">]  [<img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/452115/telegram.svg">]
+[<img align="left" alt="Windows" width="36px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png">]  [<img align="left" alt="Windows" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">]
 #### Languages
 ![image](https://github.com/M1haS/M1haS/assets/97390968/9691d907-8e31-467b-8952-6bf5bffc67a6) ![image](https://github.com/M1haS/M1haS/assets/97390968/f3e14c53-83f8-476a-93db-866edc0e2ed1) ![image](https://github.com/M1haS/M1haS/assets/97390968/d3396651-b333-4e45-bdc0-07eb7270d1bf) ![image](https://github.com/M1haS/M1haS/assets/97390968/d1685be4-5744-4b17-9274-1e47b2c63f3b) ![image](https://github.com/M1haS/M1haS/assets/97390968/8678d501-c6a5-4ad1-83a1-cd0e4d9bc7c8) ![image](https://github.com/M1haS/M1haS/assets/97390968/7a808376-b737-47a8-a929-bf0a94fbe8f9)
 
