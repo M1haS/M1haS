@@ -32,8 +32,6 @@ I like
 ---
 
 <br />
-<br />
-<br />
 
 ### You can contact with me:
 [<img align="left" alt="Telegram" width="46px" src="https://www.svgrepo.com/show/452115/telegram.svg">](https://t.me/Mixas_das)
