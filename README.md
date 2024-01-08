@@ -15,8 +15,8 @@
 
 ---
 ## My contacts:
-[<img width="46px" align="left" src="https://www.svgrepo.com/show/452115/telegram.svg"](https://t.me/Mixas_das)
-<br /><br /><br /><br /><br /><br />
+[<img width="46px" align="left" src="https://www.svgrepo.com/show/452115/telegram.svg">](https://t.me/Mixas_das)
+<br /><br /><br /><br />
 [![](https://www.codewars.com/users/M1haS/badges/large)](https://www.codewars.com/users/M1haS)
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 [![](https://visitcount.itsvg.in/api?id=M1haS&icon=6&color=12)](https://visitcount.itsvg.in)
