@@ -14,7 +14,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=M1haS&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M1haS&icon=6&color=12)](https://visitcount.itsvg.in)
-
 <br />
-[![](https://www.codewars.com/users/M1haS/badges/large)](https://www.codewars.com/users/M1haS)
+![](https://www.codewars.com/users/M1haS/badges/large)
+[![](https://visitcount.itsvg.in/api?id=M1haS&icon=6&color=12)](https://visitcount.itsvg.in)
