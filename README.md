@@ -25,7 +25,7 @@ I like
 <br />
 
 ### You can contact with me:
-[<img align="left" alt"Telegram" width="26px" src="https://www.svgrepo.com/show/452115/telegram.svg">][https://t.me/Mixas_das]
+[<img align="left" alt="Telegram" width="26px" src="https://www.svgrepo.com/show/452115/telegram.svg">][https://t.me/Mixas_das]
 
 ![Codewars](https://www.codewars.com/users/M1haS/badges/large)
 
