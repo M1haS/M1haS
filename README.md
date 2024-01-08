@@ -15,7 +15,7 @@
 
 ---
 ### My contacts:
-[<img width="46px" align="left" src="https://www.svgrepo.com/show/452115/telegram.svg">](https://t.me/Mixas_das) [<img width="46px" align="left" src="https://www.svgrepo.com/show/353655/discord-icon.svg">](https://discordapp.com/users/529938667222073354) [<img width="46px" align="left" src="https://www.svgrepo.com/show/473825/vk.svg">](https://vk.com/id827756176)
+[<img width="46px" align="left" alt="Telegram" src="https://www.svgrepo.com/show/452115/telegram.svg">](https://t.me/Mixas_das) [<img width="46px" align="left" alt="Discord" src="https://www.svgrepo.com/show/353655/discord-icon.svg">](https://discordapp.com/users/529938667222073354) [<img width="46px" align="left" alt="VK" src="https://www.svgrepo.com/show/349554/vk.svg">](https://vk.com/id827756176)
 <br /><br /><br /><br />
 [![](https://www.codewars.com/users/M1haS/badges/large)](https://www.codewars.com/users/M1haS)
 <br /><br />
