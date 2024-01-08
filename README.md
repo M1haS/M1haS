@@ -17,4 +17,4 @@
 
 <br />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![![](https://www.codewars.com/users/M1haS/badges/large)](https://www.codewars.com/users/M1haS)
+[![](https://www.codewars.com/users/M1haS/badges/large)](https://www.codewars.com/users/M1haS)
